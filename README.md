@@ -34,7 +34,9 @@
   
   ![Static Badge](https://img.shields.io/badge/MARIADB-ii?style=for-the-badge&logo=MariaDB&logoColor=white&color=%23212121)
   ![Static Badge](https://img.shields.io/badge/POSTGRESQL-ii?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=%234169E1)
-  ![Static Badge](https://img.shields.io/badge/MONGODB-ii?style=for-the-badge&logo=MongoDB&logoColor=white&color=%2347A248)
+  ![Static Badge](https://img.shields.io/badge/MONGODB-ii?style=for-the-badge&logo=MongoDB&logoColor=white&color=%2347A248)  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Courtet&layout=donut&theme=neon&langcount=6)](https://github.com/anuraghazra/github-readme-stats)
 
   ## Tools I use
   ![Static Badge](https://img.shields.io/badge/VSCODE-ii?style=for-the-badge&logoColor=white&color=%232F80ED)
@@ -48,24 +50,10 @@
   ![Static Badge](https://img.shields.io/badge/WINDOWS-ii?style=for-the-badge&logoColor=white&color=%230854C1)
   ![Static Badge](https://img.shields.io/badge/UBUNTU-ii?style=for-the-badge&logo=Ubuntu&logoColor=white&color=%23E95420)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Courtet&layout=compact&theme=neon&langcount=6)](https://github.com/anuraghazra/github-readme-stats)
+  ## Some Github stats
+  
   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Tom-Courtet&theme=neon&hide_border=false)
 </div>
 
 
-## Hi there 👋
 
-<!--
-**Tom-Courtet/Tom-Courtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
