@@ -8,7 +8,7 @@
   ## About Me
   📍 Lyon  
   
-  📖 IUT Lyon 1 | BUT Informatique  
+  📖 My Digital School | MBA Développeur Full-Stack  
   
   ✉️ tomcourtet53@gmail.com  
   
