@@ -40,7 +40,7 @@
 
   ## Tools I use
   ![Static Badge](https://img.shields.io/badge/VSCODE-ii?style=for-the-badge&logoColor=white&color=%232F80ED)
-  ![Static Badge](https://img.shields.io/badge/POSTAMN-ii?style=for-the-badge&logo=Postman&logoColor=white&color=%23FF6C37)
+  ![Static Badge](https://img.shields.io/badge/POSTMAN-ii?style=for-the-badge&logo=Postman&logoColor=white&color=%23FF6C37)
   ![Static Badge](https://img.shields.io/badge/GIT-ii?style=for-the-badge&logo=Git&logoColor=white&color=%23F05032)
   ![Static Badge](https://img.shields.io/badge/GITHUB-ii?style=for-the-badge&logo=Github&logoColor=white&color=%23181717)
   ![Static Badge](https://img.shields.io/badge/GITLAB-ii?style=for-the-badge&logo=GitLab&logoColor=white&color=%23FC6D26)  
